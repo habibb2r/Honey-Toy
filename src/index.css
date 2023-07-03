@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar a.active {
+    color: white;
+    background-color: blueviolet;
+  }
+  .tab-cat ul,li.active{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+        
+  }
+  .tab-cat ul.li {
+    color: violet;
+    
+    border-bottom: 5px black solid;
+  }
+  

@@ -1,0 +1,151 @@
+[
+    {
+      "picture": "https://i.ibb.co/GpFMFqp/images-41.jpg",
+      "name": "Royel Bengal",
+      "price": 20,
+      "rating": 4.5,
+      "subcategory": "dangerous",
+      "details": "A fully plastic made product royel bengal tiger",
+      "quantity": 10
+    },
+    {
+      "picture": "https://i.ibb.co/RCpQ89G/images-43.jpg",
+      "name": "Chita",
+      "price": 29,
+      "rating": 3.8,
+      "subcategory": "dangerous",
+      "details": "A fully plastic made product Chita the speed master.",
+      "quantity": 5
+    },
+    {
+      "picture": "https://i.ibb.co/9wB52Pb/images-42.jpg",
+      "name": "African Lion",
+      "price": 99,
+      "rating": 4.2,
+      "subcategory": "dangerous",
+      "details": "A fully plastic made product African Lion the King of the Jungle",
+      "quantity": 20
+    },
+    {
+        "picture": "https://i.ibb.co/N1jjMZH/IMG-20230522-WA0033.jpg",
+        "name": "Bear",
+        "price": 16,
+        "rating": 4.5,
+        "subcategory": "dangerous",
+        "details": "A fully plastic made product Bear the Deadliest animal",
+        "quantity": 10
+      },
+      {
+        "picture": "https://i.ibb.co/N62LzqV/images-44.jpg",
+        "name": "Elephant",
+        "price": 15,
+        "rating": 4.5,
+        "subcategory": "good",
+        "details": "A fully plastic made product Elephant the big show",
+        "quantity": 10
+      },
+      {
+        "picture": "https://i.ibb.co/bQsvh5D/images-47.jpg",
+        "name": "Buffelo",
+        "price": 21,
+        "rating": 4.5,
+        "subcategory": "good",
+        "details": "A fully plastic made product Buffelo look like beast",
+        "quantity": 10
+      },
+      {
+        "picture": "https://i.ibb.co/Fxw7tK4/images-46.jpg",
+        "name": "Zebra",
+        "price": 23,
+        "rating": 4.5,
+        "subcategory": "good",
+        "details": "A fully plastic made product Zebra look so sharp",
+        "quantity": 10
+      },
+      {
+        "picture": "https://i.ibb.co/9yZqCzn/zirap.jpg",
+        "name": "Jeeraf",
+        "price": 24,
+        "rating": 4.5,
+        "subcategory": "good",
+        "details": "A fully plastic made product Jeeraf the talest animal",
+        "quantity": 10
+      },
+      {
+        "picture": "https://i.ibb.co/2nFnqYh/images-48.jpg",
+        "name": "Parrot",
+        "price": 55,
+        "rating": 4.5,
+        "subcategory": "bird",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "quantity": 10
+      },
+      {
+        "picture": "https://i.ibb.co/qDCD18J/images-50.jpg",
+        "name": "Kingfisher",
+        "price": 32,
+        "rating": 4.5,
+        "subcategory": "bird",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "quantity": 10
+      },
+      {
+        "picture": "https://i.ibb.co/zm8NSk0/images-49.jpg",
+        "name": "Eagle",
+        "price": 36,
+        "rating": 4.5,
+        "subcategory": "bird",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "quantity": 10
+      },
+      {
+        "picture": "example.jpg",
+        "name": "Sparrow",
+        "price": 41,
+        "rating": 4.5,
+        "subcategory": "bird",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "quantity": 10
+      },
+    
+
+
+
+      [{
+        "picture": "https://i.ibb.co/BNzKYsR/Hoopoe.jpg",
+        "name": "Hoopoe",
+        "price": 265,
+        "rating": 4.5,
+        "subcategory": "bird",
+        "details": "Hoopoe, Wonderful Plastic Made Bird",
+        "quantity": 13
+      },
+      {
+        "picture": "https://i.ibb.co/rbxSRW1/Golden-Pheasant.jpg",
+        "name": "Golden-Pheasant",
+        "price": 230,
+        "rating": 5,
+        "subcategory": "bird",
+        "details": "Golden-Pheasant, Wonderful Plastic Made Bird",
+        "quantity": 16
+      },
+      {
+        "picture": "https://i.ibb.co/k3szPwm/Quetzal.jpg",
+        "name": "Quetzal",
+        "price": 215,
+        "rating": 5,
+        "subcategory": "bird",
+        "details": "Quetzal, Wonderful Plastic Made Bird",
+        "quantity": 13
+      },
+      {
+        "picture": "https://i.ibb.co/pWMSzhJ/Flamingo.jpg",
+        "name": "Flamingo",
+        "price": 350,
+        "rating": 5,
+        "subcategory": "bird",
+        "details": "Flamingo, Wonderful Plastic Made Bird",
+        "quantity": 13
+      }
+     ]
+  ]
